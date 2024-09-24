@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purchase Information</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <a href="index.html">MobileShopEu</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="form-container">
+            <h1>Complete Your Purchase</h1>
+            <form id="purchaseForm">
+                <div class="form-section">
+                    <h2>Shipping Information</h2>
+                    <label for="fullName">Full Name:</label>
+                    <input type="text" id="fullName" name="fullName" required>
+
+                    <label for="address">Address:</label>
+                    <input type="text" id="address" name="address" required>
+
+                    <label for="city">City:</label>
+                    <input type="text" id="city" name="city" required>
+
+                    <label for="state">State:</label>
+                    <input type="text" id="state" name="state" required>
+
+                    <label for="zip">ZIP Code:</label>
+                    <input type="text" id="zip" name="zip" required>
+                </div>
+
+                <div class="form-section">
+                    <h2>Payment Information</h2>
+                    <label for="cardNumber">Card Number:</label>
+                    <input type="text" id="cardNumber" name="cardNumber" required>
+
+                    <label for="cardExpiry">Expiration Date:</label>
+                    <input type="text" id="cardExpiry" name="cardExpiry" placeholder="MM/YY" required>
+
+                    <label for="cardCvc">CVC:</label>
+                    <input type="text" id="cardCvc" name="cardCvc" required>
+                </div>
+
+                <button type="submit" class="submit-button">Submit Payment</button>
+            </form>
+        </div>
+    </main>
+</body>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const form = document.getElementById('purchaseForm');
+    
+        form.addEventListener('submit', (event) => {
+            event.preventDefault();
+    
+            alert('Thank you for your purchase!');
+    
+        });
+    });
+    </script>
+</html>

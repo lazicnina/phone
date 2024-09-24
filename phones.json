@@ -1,0 +1,192 @@
+{
+    "phoness": [
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro 256GB White Titanium",
+        "price": "$1339",
+        "image": ["phones/iphone_15_pro_white_titanium_pdp_image_position-1__en-us_1.jpg",
+        "phones/iphone_15_pro_white_titanium_pdp_image_position-1_alt__en-us_2.jpg",
+        "phones/iphone_15_pro_white_titanium_pdp_image_position-2__cz-cs_2.jpg",
+        "phones/iphone_15_pro_white_titanium_pdp_image_position-4__en-us_2.jpg"],
+        "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 2,
+        "name": "iPhone 15 Pro 128GB Natural Titanium",
+        "price": "$1199",
+        "image": ["phones/iphone_15_pro_natural_titanium_pdp_image_position-1__en-us_1_2.jpg",
+        "phones/iphone_15_pro_natural_titanium_pdp_image_position-1_alt__en-us_1_2.jpg",
+        "phones/iphone_15_pro_natural_titanium_pdp_image_position-2__cz-cs_1_2.jpg",
+        "phones/iphone_15_pro_natural_titanium_pdp_image_position-4__en-us_1_2.jpg",
+        "phones/iphone_15_pro_natural_titanium_pdp_image_position-6__cz-cs_1_2.jpg"],
+        "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 3,
+        "name": "iPhone 15 Pro 128GB Blue Titanium",
+        "price": "$1199",
+        "image": ["phones/iphone_15_pro_blue_titanium_pdp_image_position-1__en-us_3.jpg",
+        "phones/iphone_15_pro_blue_titanium_pdp_image_position-1_alt__en-us_3.jpg",
+        "phones/iphone_15_pro_blue_titanium_pdp_image_position-2__cz-cs_3.jpg",
+        "phones/iphone_15_pro_blue_titanium_pdp_image_position-4__en-us_3.jpg"
+        ],
+         "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 4,
+        "name": "iPhone 14 128GB",
+        "price": "$809",
+        "image": ["phones/czcs_iphone14_q422_starlight_pdp_image_position-1a_t_3_3.jpg"],
+         "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 5,
+        "name": "Pixel 9 Pro / Pixel 9 Pro XL",
+        "price": "$999",
+        "image": ["phones/Screenshot 2024-08-17 142351.png"],
+         "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 6,
+        "name": "Pixel 9",
+        "price": "$939",
+        "image": ["phones/Screenshot 2024-08-17 143549.png"],
+         "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 7,
+        "name": "Pixel 9 Pro Fold",
+        "price": "$979",
+        "image": ["phones/Screenshot 2024-08-17 144026.png"],
+         "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    },
+    {
+        "id": 8,
+        "name": "Galaxy S24 Series",
+        "price": "$809",
+        "image": ["phones/Screenshot 2024-08-17 144606.png"],
+         "description":"1. ORIGINAL AND NEW;<br> 2. FULL AND FACTORY PACKING WITH ORIGINAL EQUIPMENT AND EMEI NUMBER; <br> 3. SIM FREE;<br> The purchased phone comes with a 6-month written warranty."
+    }
+    ],
+
+    "casess": [
+    {
+        "id": 10,
+        "name": "Apple iPhone 14 Pro Clear Case with MagSafe",
+        "price": "$79",
+        "image": "cases/mt233_t.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Apple iPhone 15 Pro Clear Case with MagSafe",
+        "price": "$79",
+        "image": "cases/mpu63_t (1).jpg"
+    },
+    {
+        "id": 12,
+        "name": "iPhone 15 Pro Max Clear Case with MagSafe",
+        "price": "$69",
+        "image": "cases/mt203_av1_t_1.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Apple iPhone 14 Pro Max Silicone Case with MagSafe",
+        "price": "$49",
+        "image": "cases/mptw3_2.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "UAG Pathfinder SE for iPhone 13",
+        "price": "$59",
+        "image": "cases/113177114061.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "UAG Metropolis for iPhone 13",
+        "price": "$49",
+        "image": "cases/113176113940-2_1.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "NEXT ONE Silicone Case for iPhone SE",
+        "price": "$39",
+        "image": "cases/img_2175.jpg"
+    }
+    ],
+
+    "glassess": [
+     {
+        "id": 20,
+        "name": "iSTYLE Flexiglass for iPhone 13 / 13 Pro",
+        "price": "$9",
+        "image": "glasses/epi-ph-sp04-ip13_7.jpg"
+     },
+     {
+        "id": 21,
+        "name": "Next One All-Rounder Glass for iPhone 15 Pro Max",
+        "price": "$29",
+        "image": "glasses/iph-15promax-alr-1.jpg"
+     } ,
+     {
+        "id": 22,
+        "name": "Next One Tempered Glass for iPhone SE",
+        "price": "$9",
+        "image": "glasses/25d-6_2_1.jpg"
+     }   
+    ],
+
+    "chargerss": [
+     {
+        "id": 30,
+        "name": "Next One 20W USB-C PD Wall Charger",
+        "price": "$29",
+        "image": "chargers/20w_charger_pics_5__logo.png"
+     }   ,
+     {
+        "id": 31,
+        "name": "iStyle 38W Pro Charger",
+        "price": "$49",
+        "image": "chargers/istyle_36w_pd_charge_perspektiva_white_1.jpg"
+     } ,
+     {
+        "id": 32,
+        "name": "Apple 20W USB-C Power Adapter",
+        "price": "$39",
+        "image": "chargers/mu7v2_geo_emea_1_3.jpg"
+     }  
+    ],
+    
+    "headphoness": [
+     {
+        "id": 40,
+        "name": "AirPods",
+        "price": "$169",
+        "image": "headphones/mv7n2.jpeg"
+     }   ,
+     {
+        "id": 41,
+        "name": "Apple AirPods Pro2 with MagSafe Case (USB-C)",
+        "price": "$329",
+        "image": "headphones/mtjv3_av2_t.jpg"
+     }  ,
+     {
+        "id": 42,
+        "name": "Apple EarPods (3,5mm)",
+        "price": "$29",
+        "image": "headphones/md827_5.jpeg"
+     }  ,
+     {
+        "id": 43,
+        "name": "Beats Solo 3",
+        "price": "$299",
+        "image": "headphones/mx432zma-01_big.jpg"
+     }  ,
+     {
+        "id": 44,
+        "name": "Next One Silicone Case za AirPods 2",
+        "price": "$19",
+        "image": "headphones/ap-sil-blk-2.png"
+     }  
+
+    ]
+}

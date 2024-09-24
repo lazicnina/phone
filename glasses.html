@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phone Store</title>
+    <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <a href="index.html">MobileShopEu</a>
+            </div>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search...">
+                <img src="8666693_search_icon.png" class="search-icon" id="searchIcon">
+            </div>
+            <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+            <div class="nav-links">
+                <div class="linkss">
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact Us</a>
+                <a id="z" href="location.html">Our Location</a>
+                </div>
+                <button id="viewBasketButton">Cart (<span id="basketCount">0</span>)</button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="prostor">
+        </div>
+        <section id="phones">
+            <div class="tabs">
+                <a href="index.html">Phones</a>
+                <a href="cases.html">Phone Cases</a>
+                <a id="main" href="#glasses">Phone Glasses</a>
+                <a href="chargers.html">Chargers</a>
+                <a href="headphones.html">Headphones</a>
+            </div>
+            <section id="glasses-list">
+
+            </section>
+        </section>
+    </main>
+    <div id="basket" class="basket-view">
+        <h2>Shopping Cart</h2>
+        <ul id="basketItems">
+        </ul>
+        <button id="checkoutButton">Checkout</button>
+    </div>
+    <script src="script.js"></script>
+    <footer class="footer">
+        <p>&copy; 2024 MobileShopEu. All rights reserved.</p>
+    </footer>
+</body>
+</html>
